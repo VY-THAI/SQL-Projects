@@ -1,2 +1,2 @@
-BUILDING PROJECTS WITH SQL
-Applying SQL skills to complete a data analysis from start to finish.
+-	This project is about using SQL to explore the oldest companies in the world, which are still in business in (almost) every country.
+-	Some interesting facts were found through analysis (e.g., the oldest business categories, continents the businesses are located on, etc.)
